@@ -1,0 +1,19 @@
+.privacy-policy {
+    width: 900px;
+    margin: 0 auto;
+    padding: 5px 50px 50px 50px;
+    background-color: #dfdcd9;
+    border-radius: 25px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: justify;
+}

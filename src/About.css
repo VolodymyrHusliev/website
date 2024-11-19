@@ -1,0 +1,46 @@
+.about {
+    width: 900px;
+    margin: 0 auto;
+    padding: 5px 50px 50px 50px;
+    background-color: #dfdcd9;
+    border-radius: 25px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contact a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    margin: 0 10px;
+    font-size: 1rem;
+}
+
+.contact a:hover {
+    color: #007bff;
+}
+
+.contact .social-links {
+    margin-top: 20px;
+}
+
+.contact .social-links a {
+    margin: 0 15px;
+}
+
+.contact .social-links img {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+}
